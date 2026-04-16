@@ -4,7 +4,7 @@
 
 // newPromise.then((value)=> {
 //   console.log(value, 'value')
-// }).catch((err)=> console.log(err))
+// }).catch((err)=> console.log(err)))
 
 class CustomPromise {
     constructor(executor) {
